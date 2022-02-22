@@ -1,7 +1,7 @@
 import Layout from "./components/Layout";
 import GlobalStyle  from "./styles/GlobalStyles";
 
-export function App() {
+function App() {
   return (
     <>
       <Layout />
@@ -10,3 +10,5 @@ export function App() {
     </>
   );
 }
+
+export default App;
