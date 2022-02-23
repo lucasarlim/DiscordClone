@@ -34,6 +34,6 @@
 
 ## Usage 
 
-1. Git clone `https://github.com/lucasarlim/discordClone.git` && `cd alurakut`
+1. Git clone `https://github.com/lucasarlim/discordClone.git` && `cd discordClone`
 2. Run `npm install` or `yarn install`.<br />
 3. Run `yarn dev` and access `http://localhost:3000`.<br />
